@@ -1,5 +1,3 @@
-# Python_generation_Stepik
-Projects from python course
-
-
-My personal solutions
+# Python generation Stepik
+### Projects from python course and my personal solutions
+![](Bee.png)
